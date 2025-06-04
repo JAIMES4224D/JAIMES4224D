@@ -33,3 +33,31 @@ Sobre mi 🧠
 - 📬 Contacto: [jaimespassunjeferson@gmail.com](mailto:jaimespassunjeferson@gmail.com)
 
 </p>
+<!--LENGUAJES DE PROGRAMACION-->
+<div align="center">
+  <h1>Lenguajes de Programación</h1>
+    <table>
+      <tr>
+        <td align="center" width ="100" >
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+          <br>Java
+        </td>
+        <td align="center" width ="100" >
+          <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+          <br>Python
+        </td>
+        <td align="center" width="100">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+        <br>C++
+      </td>
+      <td align="center" width="100">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="C++"/>
+        <br>PHP
+      </td>
+      <td align="center" width="100">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="C++"/>
+        <br>MySQL
+      </td>
+      </tr>
+    </table>
+</div>

@@ -72,9 +72,9 @@ Sobre mi 🧠
   </table>
 </div>
 <div>
-  <h1>🛠️ Herramientas y Entornos de Desarrollo</h1>
-<table>
-  <tr>
+  <h1 align="Center" >🛠️ Herramientas y Entornos de Desarrollo</h1>
+<table align="Center">
+  <tr >
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
       <br>Git
@@ -91,11 +91,13 @@ Sobre mi 🧠
       <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="40" height="40" alt="VS Code"/>
       <br>VS Code
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="40" height="40" alt="PyCharm"/>
       <br>PyCharm
+    </td>
+    <td align="center" width="100">
+      <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" width="40" height="40" alt="OpenCobolIDE"/>
+      <br>Cisco Packet Tracer
     </td>
     <td align="center" width="100">
       <img src="https://avatars.githubusercontent.com/u/6609701?s=200&v=4" width="40" height="40" alt="OpenCobolIDE"/>

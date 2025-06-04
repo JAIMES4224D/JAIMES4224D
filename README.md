@@ -116,3 +116,9 @@
   <h1>Algunos Proyectos</h1>
   
 </div>
+<div>
+  <h1>Mis estadisticas 📊</h1>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+
+
+</div>

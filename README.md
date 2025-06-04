@@ -73,34 +73,38 @@ Sobre mi 🧠
 </div>
 <div>
   <h1>🛠️ Herramientas y Entornos de Desarrollo</h1>
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-        <br>Git
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-        <br>GitHub
-      </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/NetBeans_Logo.svg/512px-NetBeans_Logo.svg.png" width="40" height="40" alt="NetBeans"/>
-        <br>NetBeans
-      </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Visual_Studio_Code_1.35_icon.svg" width="40" height="40" alt="VS Code"/>
-        <br>VS Code
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="40" height="40" alt="PyCharm"/>
-        <br>PyCharm
-      </td>
-      <td align="center" width="100">
-        <img src="https://opencobolide.readthedocs.io/en/latest/_images/icon.png" width="40" height="40" alt="OpenCobolIDE"/>
-        <br>OpenCobolIDE
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+      <br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+      <br>GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/512w/apache-netbeans.png" width="40" height="40" alt="NetBeans"/>
+      <br>NetBeans
+    </td>
+    <td align="center" width="100">
+      <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="40" height="40" alt="VS Code"/>
+      <br>VS Code
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="40" height="40" alt="PyCharm"/>
+      <br>PyCharm
+    </td>
+    <td align="center" width="100">
+      <img src="https://avatars.githubusercontent.com/u/6609701?s=200&v=4" width="40" height="40" alt="OpenCobolIDE"/>
+      <br>OpenCobolIDE
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="OpenCobolIDE"/>
+      <br>AWS
+    </td>
+  </tr>
+</table>
 </div>

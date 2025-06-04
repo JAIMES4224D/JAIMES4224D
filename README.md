@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Languages-Español%20%26%20Inglés-brightgreen"/>
 </p>
 
+<h1 align="Center"> 📳 Redes Sociales</h1>
 <p align="center">
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-red?logo=youtube&logoColor=white" /></a>
   <a href="https://www.tiktok.com/" target="_blank"><img src="https://img.shields.io/badge/TIKTOK-black?logo=tiktok&logoColor=white" /></a>
@@ -15,9 +16,8 @@
   <a href="mailto:jaimespassunjeferson@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
----
 <p>
-Sobre mi 🧠
+<h1>Sobre mi 🧠</h1>
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
   
 - 🎓 Estudiante de Ingeniería de Sistemas e Informática  
@@ -60,6 +60,7 @@ Sobre mi 🧠
       </td>
     </table>
 </div>
+
 <div align="center">
   <h1>🧰 Frameworks</h1>
   <table>
@@ -71,6 +72,7 @@ Sobre mi 🧠
     </tr>
   </table>
 </div>
+
 <div>
   <h1 align="Center" >🛠️ Herramientas y Entornos de Desarrollo</h1>
 <table align="Center">

@@ -58,6 +58,16 @@ Sobre mi 🧠
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="C++"/>
         <br>MySQL
       </td>
-      </tr>
     </table>
+</div>
+<div align="center">
+  <h1>🧰 Frameworks</h1>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
+        <br>Bootstrap
+      </td>
+    </tr>
+  </table>
 </div>

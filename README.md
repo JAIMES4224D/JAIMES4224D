@@ -117,8 +117,7 @@
   
 </div>
 <div>
-  <h1>Mis estadisticas 📊</h1>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-
-
+  <h1>Mis estadísticas 📊</h1>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAIMES4224D&theme=tokyonight" alt="mystreak"/>
 </div>
+

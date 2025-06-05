@@ -166,6 +166,21 @@
     <p align="center"><em>Conexion a internet conun router y asi mismo conexion a las carpetas especificas por departamento del servidor</em></p>
     <img src="./redes.jpeg" alt="Redes e Internet" width="400" align="center" />
   </div>
+    <!-- 🏨 PROYECTO DE RESERVA DE HOTEL -->
+<div style="border: 2px solid #cccccc; border-radius: 10px; padding: 20px; margin: 20px 0; background-color: #f9f9f9;">
+  <h2 align="center">🏨 Proyecto Web: Reserva de Hotel</h2>
+  <p align="center"><em>Proyecto básico realizado en mis primeros pasos como desarrollador web. Permite simular reservas de habitaciones en un hotel.</em></p>
+
+  <h3>📋 Descripción general</h3>
+  <p>El sistema fue desarrollado de forma sencilla como parte de mi aprendizaje inicial. Incluye un formulario de reserva, visualización de habitaciones disponibles y confirmación básica.</p>
+
+  <h3>📷 Capturas del sistema:</h3>
+  <img src="./P1.PNG" alt="Inicio del sistema" width="400"/>
+  <img src="./P2.PNG" alt="Formulario de reserva" width="400"/>
+  <img src="./P3.PNG" alt="Habitaciones disponibles" width="400"/>
+  <img src="./P4.PNG" alt="Confirmación de reserva" width="400"/>
+  <img src="./P5.PNG" alt="Datos de contacto del hotel" width="400"/>
+</div>
 </div>
 
 <!-- 🔷 SECCIÓN DE ESTADÍSTICAS -->

@@ -161,7 +161,10 @@
 
   <hr>
   <div>
-    
+  <div style="border: 2px solid #cccccc; border-radius: 10px; padding: 20px; margin: 20px 0; background-color: #f9f9f9;">
+    <h2 align="center">Proyecto Redes e Internet: Policlínico</h2>
+    <p align="center"><em>Conexion a internet conun router y asi mismo conexion a las carpetas especificas por departamento del servidor</em></p>
+    <img src="./11.jpeg" alt="Agregar especialidad" width="400"/>
   </div>
 </div>
 

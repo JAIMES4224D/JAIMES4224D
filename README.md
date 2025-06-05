@@ -172,7 +172,7 @@
   <p align="center"><em>Proyecto básico realizado en mis primeros pasos como desarrollador web. Permite simular reservas de habitaciones en un hotel.</em></p>
 
   <h3>📋 Descripción general</h3>
-  <p>El sistema fue desarrollado de forma sencilla como parte de mi aprendizaje inicial. Incluye un formulario de reserva, visualización de habitaciones disponibles y confirmación básica.</p>
+  <p>El sistema fue desarrollado de forma sencilla como parte de mi aprendizaje inicial. Incluye un formulario de compra, asi como la muestra de catalagos(PDF) y confirmación básica.</p>
 
   <h3>📷 Capturas del sistema:</h3>
   <img src="./P1.PNG" alt="Inicio del sistema" width="400"/>

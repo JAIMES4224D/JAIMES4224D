@@ -9,7 +9,7 @@
 
 <h1 align="Center"> 📳 Redes Sociales</h1>
 <p align="center">
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-red?logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@PROGRAMANIA-fm5gn/" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-red?logo=youtube&logoColor=white" /></a>
   <a href="https://www.tiktok.com/" target="_blank"><img src="https://img.shields.io/badge/TIKTOK-black?logo=tiktok&logoColor=white" /></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-blue?logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?logo=facebook&logoColor=white" /></a>

@@ -190,6 +190,17 @@
     <img src="https://github-readme-stats.vercel.app/api?username=JAIMES4224D&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAIMES4224D&theme=tokyonight" alt="mystreak"/>
   </p>
+
+
+  | Snake Eating Contributions in the last year |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+
+
+| Most Lang |
+| ----------|
+| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAIMES4224D&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+
 </div>
 
 

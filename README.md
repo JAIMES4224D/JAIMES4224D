@@ -120,18 +120,18 @@
 
   <h3>📷 Capturas del sistema:</h3>
 
-  <img src="./1.jpg" alt="Vista 1" width="400"/>
-  <img src="./2.png" alt="Vista 2" width="400"/>
-  <img src="./3.png" alt="Vista 3" width="400"/>
-  <img src="./4.png" alt="Vista 4" width="400"/>
-  <img src="./5.png" alt="Vista 5" width="400"/>
-  <img src="./6.png" alt="Vista 6" width="400"/>
-  <img src="./7.png" alt="Vista 7" width="400"/>
-  <img src="./8.png" alt="Vista 8" width="400"/>
-  <img src="./9.png" alt="Vista 9" width="400"/>
-  <img src="./10.png" alt="Vista 10" width="400"/>
-  <img src="./11.png" alt="Vista 11" width="400"/>
-  <img src="./12.png" alt="Vista 12" width="400"/>
+  <img src="./1.jpeg" alt="Vista 1" width="400"/>
+  <img src="./2.jpeg" alt="Vista 2" width="400"/>
+  <img src="./3.jpeg" alt="Vista 3" width="400"/>
+  <img src="./4.jpeg" alt="Vista 4" width="400"/>
+  <img src="./5.jpeg" alt="Vista 5" width="400"/>
+  <img src="./6.jpeg" alt="Vista 6" width="400"/>
+  <img src="./7.jpeg" alt="Vista 7" width="400"/>
+  <img src="./8.jpeg" alt="Vista 8" width="400"/>
+  <img src="./9.jpeg" alt="Vista 9" width="400"/>
+  <img src="./10.jpeg" alt="Vista 10" width="400"/>
+  <img src="./11.jpeg" alt="Vista 11" width="400"/>
+  <img src="./12.jpeg" alt="Vista 12" width="400"/>
 </div>
 <div>
   <h1 align="Center">Mis estadísticas 📊</h1>

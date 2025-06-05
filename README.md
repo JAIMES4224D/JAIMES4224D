@@ -168,8 +168,8 @@
   </div>
     <!-- 🏨 PROYECTO DE RESERVA DE HOTEL -->
 <div style="border: 2px solid #cccccc; border-radius: 10px; padding: 20px; margin: 20px 0; background-color: #f9f9f9;">
-  <h2 align="center">🏨 Proyecto Web: Reserva de Hotel</h2>
-  <p align="center"><em>Proyecto básico realizado en mis primeros pasos como desarrollador web. Permite simular reservas de habitaciones en un hotel.</em></p>
+  <h2 align="center">🏨 Proyecto Web: Pagina Web de una Tienda de Perfumes</h2>
+  <p align="center"><em>Proyecto básico realizado en mis primeros pasos como desarrollador web. Permite simular la comra e-comerce de una perfumeria.</em></p>
 
   <h3>📋 Descripción general</h3>
   <p>El sistema fue desarrollado de forma sencilla como parte de mi aprendizaje inicial. Incluye un formulario de compra, asi como la muestra de catalagos(PDF) y confirmación básica.</p>
@@ -184,23 +184,40 @@
 </div>
 
 <!-- 🔷 SECCIÓN DE ESTADÍSTICAS -->
-<div>
-  <h1 align="center">📊 Mis estadísticas</h1>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JAIMES4224D&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAIMES4224D&theme=tokyonight" alt="mystreak"/>
-  </p>
+<div align="center">
 
+  <h1>📊 Mis estadísticas</h1>
 
-  | Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+  <!-- Estadísticas generales -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JAIMES4224D&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" 
+    alt="GitHub Stats" 
+    style="max-width: 100%; margin-bottom: 20px;"
+  />
 
+  <!-- Racha de contribuciones -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=JAIMES4224D&theme=tokyonight" 
+    alt="Streak Stats" 
+    style="max-width: 100%; margin-bottom: 20px;"
+  />
 
-| Most Lang |
-| ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAIMES4224D&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+  <!-- Lenguajes más usados -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAIMES4224D&theme=onedark&show_icons=true&hide_border=true&layout=compact" 
+    alt="Top Languages" 
+    style="max-width: 100%; margin-bottom: 20px;"
+  />
+
+  <!-- Snake de contribuciones -->
+  <h3>🐍 Snake Eating Contributions in the Last Year</h3>
+  <img 
+    src="https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5" 
+    alt="Snake GitHub Contributions" 
+    style="max-width: 100%;" 
+  />
 
 </div>
+
 
 

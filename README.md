@@ -170,7 +170,7 @@
   <h1 align="center">📊 Mis estadísticas</h1>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JAIMES4224D&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAIMES4224D&theme=tokyonight" alt="mystreak"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAIMES4224D&theme=tokyonight" alt="mystreak"/>
   </p>
 </div>
 

@@ -188,32 +188,32 @@
 
 🔥 Cómo Crear un USB Booteable de Windows 10 con Rufus | Guía Paso a Paso
 
-[![USB Booteable con Rufus](https://i.ytimg.com/an_webp/OSBODQW9iyI/mqdefault_6s.webp?du=3000&sqp=CKqok8IG&rs=AOn4CLD-WO59ek5g5qIkx7ljEUHZc1KwgA)](https://youtu.be/OSBODQW9iyI?si=pn4fMnzlJsOJJMf2)  
+[![USB Booteable con Rufus](https://i.ytimg.com/an_webp/OSBODQW9iyI/mqdefault_6s.webp?du=3000&sqp=CLaflsIG&rs=AOn4CLCKAqX1_pYychaaBt-hw7JmhvJwVw)](https://youtu.be/OSBODQW9iyI?si=pn4fMnzlJsOJJMf2)  
 
 
 💻 ¡Cómo Aumentar la RAM de tu Laptop! Instalación de 4GB Paso a Paso
 
-[![Aumentar RAM a tu Laptop](https://i.ytimg.com/an_webp/a4b6PMMtDQw/mqdefault_6s.webp?du=3000&sqp=COink8IG&rs=AOn4CLC07XA-ztiePQoeSLlTyhoGgPfspQ)](https://youtu.be/a4b6PMMtDQw?si=fLpNR6JNkhfV9UrU)  
+[![Aumentar RAM a tu Laptop](https://i.ytimg.com/an_webp/a4b6PMMtDQw/mqdefault_6s.webp?du=3000&sqp=CKDUlsIG&rs=AOn4CLDpCZSTSVDEbWJyqvo5fukdWUSDaQ)](https://youtu.be/a4b6PMMtDQw?si=fLpNR6JNkhfV9UrU)  
 
 
 🔧 Cómo RESTABLECER una USB después de hacerla Booteable | SIN PROGRAMAS
 
-[![Restablecer USB](https://i.ytimg.com/an_webp/ba9O6UUS2KU/mqdefault_6s.webp?du=3000&sqp=CIW5k8IG&rs=AOn4CLBtf_I4ZYPhR2lQfnLMOetEW2iqMw)](https://youtu.be/ba9O6UUS2KU?si=5pDlnn5-JtOgvHjh)  
+[![Restablecer USB](https://i.ytimg.com/an_webp/ba9O6UUS2KU/mqdefault_6s.webp?du=3000&sqp=COPMlsIG&rs=AOn4CLDp2IEP69Kyf3fchPN63soSJ3H7pA)](https://youtu.be/ba9O6UUS2KU?si=5pDlnn5-JtOgvHjh)  
 
 
 ✅ ¡SOLUCIÓN DEFINITIVA! No Puedo Escribir en el Buscador de Windows 10
 
-[![Buscador de Windows 10](https://i.ytimg.com/an_webp/3BOjZgqjzjI/mqdefault_6s.webp?du=3000&sqp=CLSLk8IG&rs=AOn4CLCw8FIJTahPqhtB1OXr4fqHRS54Cw)](https://youtu.be/3BOjZgqjzjI?si=jqq6I6ET9zhhBSYD)  
+[![Buscador de Windows 10](https://i.ytimg.com/an_webp/ba9O6UUS2KU/mqdefault_6s.webp?du=3000&sqp=COPMlsIG&rs=AOn4CLDp2IEP69Kyf3fchPN63soSJ3H7pA)](https://youtu.be/3BOjZgqjzjI?si=jqq6I6ET9zhhBSYD)  
 
 
 💾 Mostrar Base de Datos en MySQL | SHOW DATABASE
 
-[![Mostrar Base de Datos MySQL](https://i.ytimg.com/an_webp/Ty0MTrhlaxo/mqdefault_6s.webp?du=3000&sqp=CMSMk8IG&rs=AOn4CLBHiL9tzogVg8sK0ZfJlqkWgymlfg)](https://youtu.be/89J5vamDVTk?si=BVGYfuRdxGGXZA9h)  
+[![Mostrar Base de Datos MySQL](https://i.ytimg.com/an_webp/89J5vamDVTk/mqdefault_6s.webp?du=3000&sqp=CO6_lsIG&rs=AOn4CLDwzTG3CExVkOKF-VImTwkDr59WXw)](https://youtu.be/89J5vamDVTk?si=BVGYfuRdxGGXZA9h)  
 
 
 ☕✅ Cómo Hacer una Conexión de Base de Datos (De Java a MySQL) - Fácil y Rápido
 
-[![Conexión Java MySQL](https://i.ytimg.com/an_webp/RE5Zu2Dg1pE/mqdefault_6s.webp?du=3000&sqp=CK21k8IG&rs=AOn4CLC-qCXLoXCXd1DlP2XFCb0WvczIrA)](https://youtu.be/RE5Zu2Dg1pE?si=F_axiJ3WJpPz-WuP)  
+[![Conexión Java MySQL](https://i.ytimg.com/an_webp/RE5Zu2Dg1pE/mqdefault_6s.webp?du=3000&sqp=CPPXlsIG&rs=AOn4CLAQij-pchwy3LJwqdwyEgXPBbdnKQ)](https://youtu.be/RE5Zu2Dg1pE?si=F_axiJ3WJpPz-WuP)  
 
 </div>
 <!-- 🔷 SECCIÓN DE ESTADÍSTICAS -->

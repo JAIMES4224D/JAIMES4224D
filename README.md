@@ -183,39 +183,71 @@
 </div>
 </div>
 <hr>
-<div align="Center">
- <h1 align="Center" >📺 Videos en YouTube</h1>
 
-🔥 Cómo Crear un USB Booteable de Windows 10 con Rufus | Guía Paso a Paso
-
-[![USB Booteable con Rufus](https://i.ytimg.com/an_webp/OSBODQW9iyI/mqdefault_6s.webp?du=3000&sqp=CLaflsIG&rs=AOn4CLCKAqX1_pYychaaBt-hw7JmhvJwVw)](https://youtu.be/OSBODQW9iyI?si=pn4fMnzlJsOJJMf2)  
-
-
-💻 ¡Cómo Aumentar la RAM de tu Laptop! Instalación de 4GB Paso a Paso
-
-[![Aumentar RAM a tu Laptop](https://i.ytimg.com/an_webp/a4b6PMMtDQw/mqdefault_6s.webp?du=3000&sqp=CKDUlsIG&rs=AOn4CLDpCZSTSVDEbWJyqvo5fukdWUSDaQ)](https://youtu.be/a4b6PMMtDQw?si=fLpNR6JNkhfV9UrU)  
-
-
-🔧 Cómo RESTABLECER una USB después de hacerla Booteable | SIN PROGRAMAS
-
-[![Restablecer USB](https://i.ytimg.com/an_webp/ba9O6UUS2KU/mqdefault_6s.webp?du=3000&sqp=COPMlsIG&rs=AOn4CLDp2IEP69Kyf3fchPN63soSJ3H7pA)](https://youtu.be/ba9O6UUS2KU?si=5pDlnn5-JtOgvHjh)  
-
-
-✅ ¡SOLUCIÓN DEFINITIVA! No Puedo Escribir en el Buscador de Windows 10
-
-[![Buscador de Windows 10](https://i.ytimg.com/an_webp/ba9O6UUS2KU/mqdefault_6s.webp?du=3000&sqp=COPMlsIG&rs=AOn4CLDp2IEP69Kyf3fchPN63soSJ3H7pA)](https://youtu.be/3BOjZgqjzjI?si=jqq6I6ET9zhhBSYD)  
-
-
-💾 Mostrar Base de Datos en MySQL | SHOW DATABASE
-
-[![Mostrar Base de Datos MySQL](https://i.ytimg.com/an_webp/89J5vamDVTk/mqdefault_6s.webp?du=3000&sqp=CO6_lsIG&rs=AOn4CLDwzTG3CExVkOKF-VImTwkDr59WXw)](https://youtu.be/89J5vamDVTk?si=BVGYfuRdxGGXZA9h)  
-
-
-☕✅ Cómo Hacer una Conexión de Base de Datos (De Java a MySQL) - Fácil y Rápido
-
-[![Conexión Java MySQL](https://i.ytimg.com/an_webp/RE5Zu2Dg1pE/mqdefault_6s.webp?du=3000&sqp=CPPXlsIG&rs=AOn4CLAQij-pchwy3LJwqdwyEgXPBbdnKQ)](https://youtu.be/RE5Zu2Dg1pE?si=F_axiJ3WJpPz-WuP)  
-
+<div style="text-align:center;">
+  <h1>📺 Videos en YouTube</h1>
+  <table style="margin: 0 auto; border-collapse: collapse;">
+    <tbody>
+      <tr>
+        <td style="padding: 15px; text-align:center; border: 1px solid #ddd; width: 220px;">
+          <h3>🔥 Cómo Crear un USB Booteable de Windows 10 con Rufus</h3>
+          <a href="https://youtu.be/OSBODQW9iyI?si=pn4fMnzlJsOJJMf2" target="_blank" rel="noopener noreferrer">
+            <img src="https://i.ytimg.com/an_webp/OSBODQW9iyI/mqdefault_6s.webp?du=3000&sqp=CLaflsIG&rs=AOn4CLCKAqX1_pYychaaBt-hw7JmhvJwVw" alt="USB Booteable con Rufus" style="width:200px; height:auto; border-radius:8px;">
+          </a>
+          <br>
+          <a href="https://youtu.be/OSBODQW9iyI?si=pn4fMnzlJsOJJMf2" target="_blank" style="display:inline-block; margin-top: 10px; padding: 8px 15px; background-color: #FF0000; color: white; text-decoration:none; border-radius:5px; font-weight:bold;">Ver Video</a>
+        </td>
+       <td style="padding: 15px; text-align:center; border: 1px solid #ddd; width: 220px;">
+        <h3>💻 Cómo Aumentar la RAM de tu Laptop</h3>
+        <a href="https://youtu.be/a4b6PMMtDQw?si=fLpNR6JNkhfV9UrU" target="_blank" rel="noopener noreferrer">
+          <img src="https://i.ytimg.com/an_webp/a4b6PMMtDQw/mqdefault_6s.webp?du=3000&sqp=CKDUlsIG&rs=AOn4CLDpCZSTSVDEbWJyqvo5fukdWUSDaQ" alt="Aumentar RAM a tu Laptop" style="width:200px; height:auto; border-radius:8px;">
+        </a>
+        <br>
+        <a href="https://youtu.be/a4b6PMMtDQw?si=fLpNR6JNkhfV9UrU" target="_blank" style="display:inline-block; margin-top: 10px; padding: 8px 15px; background-color: #FF0000; color: white; text-decoration:none; border-radius:5px; font-weight:bold;">Ver Video</a>
+      </td>
+      <td style="padding: 15px; text-align:center; border: 1px solid #ddd; width: 220px;">
+        <h3>🔧 Cómo RESTABLECER una USB después de hacerla Booteable</h3>
+        <a href="https://youtu.be/ba9O6UUS2KU?si=5pDlnn5-JtOgvHjh" target="_blank" rel="noopener noreferrer">
+          <img src="https://i.ytimg.com/an_webp/ba9O6UUS2KU/mqdefault_6s.webp?du=3000&sqp=COPMlsIG&rs=AOn4CLDp2IEP69Kyf3fchPN63soSJ3H7pA" alt="Restablecer USB" style="width:200px; height:auto; border-radius:8px;">
+        </a>
+        <br>
+        <a href="https://youtu.be/ba9O6UUS2KU?si=5pDlnn5-JtOgvHjh" target="_blank" style="display:inline-block; margin-top: 10px; padding: 8px 15px; background-color: #FF0000; color: white; text-decoration:none; border-radius:5px; font-weight:bold;">Ver Video</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 15px; text-align:center; border: 1px solid #ddd; width: 220px;">
+        <h3>✅ ¡SOLUCIÓN DEFINITIVA! No Puedo Escribir en el Buscador de Windows 10</h3>
+        <a href="https://youtu.be/3BOjZgqjzjI?si=jqq6I6ET9zhhBSYD" target="_blank" rel="noopener noreferrer">
+          <img src="https://i.ytimg.com/an_webp/ba9O6UUS2KU/mqdefault_6s.webp?du=3000&sqp=COPMlsIG&rs=AOn4CLDp2IEP69Kyf3fchPN63soSJ3H7pA" alt="Buscador de Windows 10" style="width:200px; height:auto; border-radius:8px;">
+        </a>
+        <br>
+        <a href="https://youtu.be/3BOjZgqjzjI?si=jqq6I6ET9zhhBSYD" target="_blank" style="display:inline-block; margin-top: 10px; padding: 8px 15px; background-color: #FF0000; color: white; text-decoration:none; border-radius:5px; font-weight:bold;">Ver Video</a>
+      </td>
+      <td style="padding: 15px; text-align:center; border: 1px solid #ddd; width: 220px;">
+        <h3>💾 Mostrar Base de Datos en MySQL | SHOW DATABASE</h3>
+        <a href="https://youtu.be/89J5vamDVTk?si=BVGYfuRdxGGXZA9h" target="_blank" rel="noopener noreferrer">
+          <img src="https://i.ytimg.com/an_webp/89J5vamDVTk/mqdefault_6s.webp?du=3000&sqp=CO6_lsIG&rs=AOn4CLDwzTG3CExVkOKF-VImTwkDr59WXw" alt="Mostrar Base de Datos MySQL" style="width:200px; height:auto; border-radius:8px;">
+        </a>
+        <br>
+        <a href="https://youtu.be/89J5vamDVTk?si=BVGYfuRdxGGXZA9h" target="_blank" style="display:inline-block; margin-top: 10px; padding: 8px 15px; background-color: #FF0000; color: white; text-decoration:none; border-radius:5px; font-weight:bold;">Ver Video</a>
+      </td>
+      <td style="padding: 15px; text-align:center; border: 1px solid #ddd; width: 220px;">
+        <h3>☕✅ Cómo Hacer una Conexión de Base de Datos (Java a MySQL)</h3>
+        <a href="https://youtu.be/RE5Zu2Dg1pE?si=F_axiJ3WJpPz-WuP" target="_blank" rel="noopener noreferrer">
+          <img src="https://i.ytimg.com/an_webp/RE5Zu2Dg1pE/mqdefault_6s.webp?du=3000&sqp=CPPXlsIG&rs=AOn4CLAQij-pchwy3LJwqdwyEgXPBbdnKQ" alt="Conexión Java MySQL" style="width:200px; height:auto; border-radius:8px;">
+        </a>
+        <br>
+        <a href="https://youtu.be/RE5Zu2Dg1pE?si=F_axiJ3WJpPz-WuP" target="_blank" style="display:inline-block; margin-top: 10px; padding: 8px 15px; background-color: #FF0000; color: white; text-decoration:none; border-radius:5px; font-weight:bold;">Ver Video</a>
+      </td>
+    </tr>
+  </tbody>
+  </table>
 </div>
+
+<hr>
+
+
+
 <!-- 🔷 SECCIÓN DE ESTADÍSTICAS -->
 <div align="center">
 

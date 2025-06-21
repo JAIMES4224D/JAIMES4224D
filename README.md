@@ -273,7 +273,6 @@
     alt="Top Languages" 
     style="max-width: 100%; margin-bottom: 20px;"
   />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAIMES4224D&layout=compact)
   <!-- Snake de contribuciones -->
   <h3>🐍 Snake Eating Contributions in the Last Year</h3>
   <img 

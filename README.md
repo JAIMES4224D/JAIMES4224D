@@ -266,6 +266,11 @@
     alt="Streak Stats" 
     style="max-width: 100%; margin-bottom: 20px;"
   />
+   <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAIMES4224D&theme=github_dark)
+  
+ </div>
 
   <!-- Lenguajes más usados -->
   <img 

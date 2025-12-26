@@ -272,6 +272,8 @@
   <p align="center">
     <img height="180em" src="https://streak-stats.demolab.com?user=JAIMES4224D&theme=tokyonight&hide_border=true" />
   </p>
+  
+  <!-- Lenguajes más usados -->
  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAIMES4224D&theme=onedark&show_icons=true&hide_border=true&layout=compact" 
     alt="Top Languages" 
@@ -280,7 +282,6 @@
   
  </div>
 
-  <!-- Lenguajes más usados -->
  
   <!-- Snake de contribuciones -->
   <h3>🐍 Snake Eating Contributions in the Last Year</h3>

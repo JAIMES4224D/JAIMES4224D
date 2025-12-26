@@ -254,30 +254,34 @@
   <h1>📊 Mis estadísticas</h1>
 
   <!-- Estadísticas generales -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=JAIMES4224D&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" 
-    alt="GitHub Stats" 
-    style="max-width: 100%; margin-bottom: 20px;"
-  />
-
-  <!-- Racha de contribuciones -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=JAIMES4224D&theme=tokyonight" 
-    alt="Streak Stats" 
-    style="max-width: 100%; margin-bottom: 20px;"
-  />
-   <div align=center>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAIMES4224D&theme=tokyonight" />
+  </p>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAIMES4224D&theme=github_dark)
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JAIMES4224D&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JAIMES4224D&theme=tokyonight" />
+  </p>
   
- </div>
-
-  <!-- Lenguajes más usados -->
-  <img 
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JAIMES4224D&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JAIMES4224D&theme=tokyonight" />
+  </p>
+  
+  
+  <p align="center">
+    <img height="180em" src="https://streak-stats.demolab.com?user=JAIMES4224D&theme=tokyonight&hide_border=true" />
+  </p>
+ <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAIMES4224D&theme=onedark&show_icons=true&hide_border=true&layout=compact" 
     alt="Top Languages" 
     style="max-width: 100%; margin-bottom: 20px;"
   />
+  
+ </div>
+
+  <!-- Lenguajes más usados -->
+ 
   <!-- Snake de contribuciones -->
   <h3>🐍 Snake Eating Contributions in the Last Year</h3>
   <img 

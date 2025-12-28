@@ -66,12 +66,24 @@
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+             width="40" height="40" alt="Bootstrap"/>
         <br>Bootstrap
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+             width="40" height="40" alt="Flutter"/>
+        <br>Flutter
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+             width="40" height="40" alt="Spring Boot"/>
+        <br>Spring Boot
       </td>
     </tr>
   </table>
 </div>
+
 
 <div>
   <h1 align="Center" >🛠️ Herramientas y Entornos de Desarrollo</h1>
